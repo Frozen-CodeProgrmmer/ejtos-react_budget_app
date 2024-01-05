@@ -36,7 +36,7 @@ const App = () => {
                             // ExpenseTotal component
                             <div className='col-sm'>
                                 <ExpenseTotal />
-                            </div
+                            </div>
                         }        
                        
                         {
